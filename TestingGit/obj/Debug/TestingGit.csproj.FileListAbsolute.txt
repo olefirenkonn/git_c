@@ -1,0 +1,10 @@
+E:\мусор\TestingGit\TestingGit\bin\Debug\TestingGit.exe.config
+E:\мусор\TestingGit\TestingGit\bin\Debug\TestingGit.exe
+E:\мусор\TestingGit\TestingGit\bin\Debug\TestingGit.pdb
+E:\мусор\TestingGit\TestingGit\obj\Debug\TestingGit.csprojAssemblyReference.cache
+E:\мусор\TestingGit\TestingGit\obj\Debug\TestingGit.Form1.resources
+E:\мусор\TestingGit\TestingGit\obj\Debug\TestingGit.Properties.Resources.resources
+E:\мусор\TestingGit\TestingGit\obj\Debug\TestingGit.csproj.GenerateResource.cache
+E:\мусор\TestingGit\TestingGit\obj\Debug\TestingGit.csproj.CoreCompileInputs.cache
+E:\мусор\TestingGit\TestingGit\obj\Debug\TestingGit.exe
+E:\мусор\TestingGit\TestingGit\obj\Debug\TestingGit.pdb
