@@ -22,6 +22,7 @@ namespace TestingGit
             button1.Text= "Hello, World";
             this.Text = "HELLO";
             this.BackColor = Color.Red;
+            this.Text = "hello";
         }
     }
 }
