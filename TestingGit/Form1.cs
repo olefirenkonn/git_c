@@ -24,5 +24,10 @@ namespace TestingGit
             this.BackColor = Color.Red;
             this.Text = "hello";
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.BackColor = Color.ForestGreen;
+        }
     }
 }
